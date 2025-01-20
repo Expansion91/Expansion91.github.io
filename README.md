@@ -1,5 +1,3 @@
 # Kaiken takana on Platoni
-
-tekstiä.... 
-vielä lisää
-nyt riiittääää.
+aslkfjclsökdglvksdlkgjvlkjslköcgjvjlksjlkgkvj lksdjglkvjsdlkjgvljsdlkzjvl jsdlgkvjsdlkjgvlk sjdjlkgjvlskdljglkvksdjvsldkjfvlkjsdölkjkfnvkjsdöfvhsdljljhvökjsdhövkjhsdköjghvköjsdhköjvhsdökjghvköjsdjhgh
+dkfjvjhsdkjgvhkjsdgljvj sldjlhjgvöljlshdjgxhvöj shdxgökjvhkjfxhgvköjhxgköjbjvhfdköjxghbvökjsjfhxgkbjövhdfkxjgjbhdökfjxhgkjbjdhfxhgkjbvh dfökjxjghbv ökjdfhxgbökj hdökjfjxbh ökjdfhxbök kfhcökgbhd.
