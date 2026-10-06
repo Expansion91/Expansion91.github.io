@@ -67,13 +67,8 @@
       margin: 0.5rem 0;
     }
 
-    .lead {
-      color: var(--muted);
-      font-size: 1.1rem;
-    }
-
     .links {
-      margin-top: 2rem;
+      margin-top: 1.5rem;
       display: flex;
       gap: 1rem;
       justify-content: center;
@@ -96,10 +91,21 @@
   <main>
     <img class="profile" src="profiilikuva.jpg" alt="Kuva minusta">
     <h1>Toni Huhtiniemi</h1>
+    
+    <!-- Peruslinkit (GitHub & Sähköposti) -->
     <nav class="links" aria-label="Linkit">
       <a href="https://github.com/Expansion91">GitHub</a>
-      <a href="mailto:huhtiniemitoni@gmail.com">Sähköposti</a>
+      <a href="mailto:huhtiniemiton@gmail.com">Sähköposti</a>
     </nav>
+
+    <!-- UUSI OSIO: Tutkimuspaperi erillään -->
+    <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+      <p style="color: var(--muted); font-size: 0.9rem; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.05em;">Tutkimuspaperit</p>
+      <nav class="links" aria-label="Tutkimuspaperi">
+        <a href="surrealism_and_super_turing.pdf" target="_blank">📄 Lue tutkimuspaperi (PDF)</a>
+      </nav>
+    </div>
+
   </main>
 </body>
 </html>
